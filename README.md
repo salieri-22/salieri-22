@@ -9,6 +9,8 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 - PHIL 1820: Intro. to Philosophy II (Instructor: Tyler Hildebrand)
 - HIST 1021: Europe: French Revolution to Present (Instructor: Denis Kozlov)
 
+DM me if you want the syllabus for the course above
+
 ## Interests
 - Computational mathematics 
 
