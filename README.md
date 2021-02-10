@@ -8,3 +8,4 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 # Skills
 - HTML/CSS
 - LaTeX
+- Learning C++ and Scheme in my free time
