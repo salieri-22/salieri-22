@@ -17,7 +17,7 @@ DM me if you want the syllabus for the courses listed above.
 ## Skills
 - HTML/CSS
 - LaTeX
-- Learning C++ and Scheme in my free time
+- Currently learning a bunch of other programming languages in my own free time
 
 ## Projects
 - Personal Website (WIP)
