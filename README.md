@@ -5,6 +5,3 @@ Currently a first-year BSc. student at Dalhousie University. I am planning to do
 # Skills
 - HTML/CSS
 - LaTeX
-
-# Hobbies
-- Art
