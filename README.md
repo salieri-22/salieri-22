@@ -2,6 +2,10 @@
 
 Currently a first-year BSc. student at Dalhousie University, and I am planning to double major in Mathematics and Computer Science.
 
+## Contacts
+
+**Discord** Captain Nemo#0296 | **Twitter** [@alym_22](https://twitter.com/alym_22)  | **Reddit** [Salieri_22](https://www.reddit.com/user/Salieri_22/) | **Email** <alyssa.motas@dal.ca> | **LinkedIn** [alyssamotas22](https://www.linkedin.com/in/alyssamotas22/)
+
 ## Courses I'm In (Winter 2021 Semester)
 - MATH 1010: Differential & Integral Calculus II 
 - MATH 2113: Discrete Structures II
@@ -12,7 +16,8 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 DM me if you want the syllabus for the courses listed above.
 
 ## Interests
-- Computational mathematics 
+- Computational mathematics
+- Theoretical computer science
 
 ## Skills
 - HTML/CSS
