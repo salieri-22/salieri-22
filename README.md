@@ -20,6 +20,8 @@ DM me if you want the syllabus for the courses listed above.
 - Currently learning a bunch of other programming languages in my own free time
 
 ## Projects
+- CS50W
+  - Stuff that I made when I took HarvardX's CS50W Web Programming with Python and Javascript
 - Personal Website (WIP)
   - My own personal website where I would showcase my future projects + CV
 - [Dalhousie University Notes](https://github.com/salieri-22/DalhousieU_notes) (WIP)
