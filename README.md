@@ -1,6 +1,6 @@
 ## About Me
 
-Currently a first-year BSc. student at Dalhousie University, and I am planning to double major in Mathematics and Computer Science.
+Currently a first-year BSc. student at Dalhousie University, and I am planning to double major in Mathematics and Computer Science. I also like anime and drawing things sometimes.
 
 ## Contacts
 
