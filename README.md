@@ -4,7 +4,7 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 
 ## Contacts
 
-**Discord** Captain Nemo#0296 | **Twitter** [@alym_22](https://twitter.com/alym_22)  | **Reddit** [Salieri_22](https://www.reddit.com/user/Salieri_22/) | **Email** <alyssa.motas@dal.ca> | **LinkedIn** [alyssamotas22](https://www.linkedin.com/in/alyssamotas22/) 
+**Discord** Captain Nemo#0296 | **Twitter** [@alym_22](https://twitter.com/alym_22)  | **Reddit** [Salieri_22](https://www.reddit.com/user/Salieri_22/) | **Email** <salieri@salieri.dev> | **LinkedIn** [alyssamotas22](https://www.linkedin.com/in/alyssamotas22/) 
 
 ## Courses I'm In (Winter 2021 Semester)
 - MATH 1010: Differential & Integral Calculus II 
