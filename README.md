@@ -15,10 +15,6 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 
 DM me if you want the syllabus for the courses listed above.
 
-## Interests
-- Computational mathematics
-- Theoretical computer science
-
 ## Skills
 - HTML/CSS
 - LaTeX
