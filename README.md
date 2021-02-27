@@ -13,16 +13,7 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 - PHIL 1820: Intro. to Philosophy II
 - HIST 1021: Europe: French Revolution to Present
 
-DM me if you want the syllabus for the courses listed above.
-
-## Skills
-- HTML/CSS
-- LaTeX
-- Currently learning a bunch of other programming languages in my own free time
-
 ## Projects
-- CS50W (On-going)
-  - Stuff that I made when I took HarvardX's CS50W Web Programming with Python and Javascript
 - [Personal Website](https://salieri.dev/) (WIP)
   - My own personal website where I would showcase my future projects + CV
 - [Dalhousie University Notes](https://github.com/salieri-22/DalhousieU_notes) (WIP)
