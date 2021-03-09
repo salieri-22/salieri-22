@@ -18,5 +18,3 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
   - My own personal website where I would showcase my future projects + CV
 - [Dalhousie University Notes](https://github.com/salieri-22/DalhousieU_notes) (WIP)
   - Notes I wrote in LaTex during my time at Dalhousie University
-- [Notes from my highschool](https://github.com/salieri-22/JL_notes) (WIP)
-  - Notes I wrote in LaTeX during my senior year of highschool (J.L. Ilsley)
