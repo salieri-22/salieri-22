@@ -6,12 +6,11 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 
 **Twitter** [@alym_22](https://twitter.com/alym_22)  | **Reddit** [Salieri_22](https://www.reddit.com/user/Salieri_22/) | **Email** <salieri@salieri.dev> | **LinkedIn** [alyssamotas22](https://www.linkedin.com/in/alyssamotas22/) 
 
-## Courses I'm In (Winter 2021 Semester)
-- MATH 1010: Differential & Integral Calculus II 
-- MATH 2113: Discrete Structures II
-- MATH 2135: Linear Algebra
-- PHIL 1820: Intro. to Philosophy II
-- HIST 1021: Europe: French Revolution to Present
+## Courses I'm In (Summer 2021 Semester)
+- MATH 2001: Intermediate Calculus I
+- MATH 2120: Methods for Ordinary Differential Equations
+- CSCI 1110: Introduction to Computer Science II
+
 
 ## Projects
 - [Personal Website](https://salieri.dev/) (WIP)
