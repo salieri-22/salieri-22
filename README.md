@@ -10,6 +10,7 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 - MATH 2001: Intermediate Calculus I
 - MATH 2120: Methods for Ordinary Differential Equations
 - CSCI 1110: Introduction to Computer Science II
+- PHYC 0010: University Prep. Physics
 
 
 ## Projects
