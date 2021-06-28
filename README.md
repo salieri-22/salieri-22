@@ -7,8 +7,8 @@ Currently a first-year BSc. student at Dalhousie University, and I am planning t
 **Twitter** [@alym_22](https://twitter.com/alym_22)  | **Reddit** [Salieri_22](https://www.reddit.com/user/Salieri_22/) | **Email** <salieri@salieri.dev> | **LinkedIn** [alyssamotas22](https://www.linkedin.com/in/alyssamotas22/) 
 
 ## Courses I'm In (Summer 2021 Semester)
-- MATH 2001: Intermediate Calculus I
-- MATH 2120: Methods for Ordinary Differential Equations
+- MATH 2002: Intermediate Calculus II
+- STAT 2060: Introduction to Probability and Statistics
 - CSCI 1110: Introduction to Computer Science II
 
 
